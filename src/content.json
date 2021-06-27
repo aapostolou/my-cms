@@ -1,0 +1,16 @@
+{
+  "_pages": [
+    {
+      "_template": "simple-page",
+      "id": "home",
+      "label": "Home",
+      "route": "/",
+      "_blocks": [
+        {
+          "_template": "title-block",
+          "title": "Home Page"
+        }
+      ]
+    }
+  ]
+}

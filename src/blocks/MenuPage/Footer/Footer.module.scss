@@ -1,0 +1,13 @@
+.footer {
+  padding: 10px;
+
+  box-shadow: 0px 0px 7px 3px #77777778;
+
+  background: #1f1f1f;
+
+  & .container {
+    max-width: 1128px;
+
+    margin: auto;
+  }
+}
